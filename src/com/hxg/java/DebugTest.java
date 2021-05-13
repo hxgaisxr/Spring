@@ -14,6 +14,7 @@ public class DebugTest {
             System.out.println(i);
         }
 
+
         HashMap<String, String> map = new HashMap<>();
         map.put("name", "hxg");
         map.put("age", "24");
